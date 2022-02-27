@@ -97,7 +97,7 @@ namespace ConsoleApp1
             Console.WriteLine(time);
 
 
-            return 0;
+            return time;
 
         }
     }
